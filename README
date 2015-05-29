@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5185
+
+Press LEADER-f to re-format the current file.
+
+Hint: If nothing else is specified, the Leader key is '&#039 I think.
+
+ATTENTION: Mark 'f' is used, old contents are discarded.
